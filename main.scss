@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+#app{
+    display: flex;
+    flex-direction: column;
+    img{
+        height: 40vh;
+    }
+}
+nav{
+    background-color: #333333;
+    height: 8vh;
+    position: relative;
+    width: 80%;
+    bottom: 10px;
+    left: 9%;
+    border-radius: 8px;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "useless-project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "css-compile": "sass main.scss main.css --watch"
+  },
+  "devDependencies": {
+    "vite": "^2.6.4",
+    "sass": "^1.43.4"
+  },
+  "dependencies": {
+    
+  }
+}
